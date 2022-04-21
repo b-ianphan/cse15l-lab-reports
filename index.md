@@ -15,4 +15,4 @@ Link back to original repo: [Here](https://github.com/b-ianphan/cse15l-lab-repor
 
 >Lab report 2: [Lab Report 1](https://b-ianphan.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
 >
->Link to a repo containing only lab-report-2 files: [Lab Report 2 Repo]()
+>Link to a repo containing only lab-report-2 files: [Lab Report 2 Repo](https://github.com/b-ianphan/lab-report-2)
