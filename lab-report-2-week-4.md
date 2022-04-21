@@ -19,8 +19,7 @@ Written and Submitted by: Billy Phan
 
 > Explanation: 
 
-Our code prior to fixing was essentially reading the index of `Closing Parenthesis: ")"` as "-1" it couldn
-'t be found), so when our program would take note of a link using `.add` there would be an `indexOutOfBoundsException` (Our symptom). This output only occurs when we pass to it a file where we have a open paranthesis withouted a paired closing one `Ex: [...](...`.
+Our code prior to fixing was essentially reading the index of `Closing Parenthesis: ")"` as "-1" (it couldn't be found), so when our program would take note of a link using `.add` there would be an `indexOutOfBoundsException` (Our symptom). This output only occurs when we pass to our program a `.md` file where we have a open paranthesis without a paired closing one `Ex: [...](...`.
 
 ---
 
