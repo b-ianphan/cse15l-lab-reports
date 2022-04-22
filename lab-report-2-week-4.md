@@ -19,7 +19,7 @@ Written and Submitted by: Billy Phan
 
 > Explanation: 
 
-Our code prior to fixing was essentially reading the index of `Closing Parenthesis: ")"` as "-1" (it couldn't be found), so when our program would take note of a link using `.add` there would be an `indexOutOfBoundsException` (Our symptom). This output only occurs when we pass to our program a `.md` file where we have a open paranthesis without a paired closing one `Ex: [...](...`.
+My code prior to fixing was essentially reading the index of `Closing Parenthesis: ")"` as "-1" (it couldn't be found), so when our program would take note of a link using `.add` there would be an `indexOutOfBoundsException` (the symptom). This output only occurs when we pass to our program a `.md` file where we have a open paranthesis without a paired closing one `Ex: [...](...`.
 
 ---
 
@@ -33,11 +33,12 @@ Our code prior to fixing was essentially reading the index of `Closing Parenthes
 
 > Output of Sympton: 
 
-![Sympton 2 Output]()
+![Sympton 2 Output](cse15l-lab-report-2-ss4.png)
 
 > Explanation:
 
-Our code prior to fixing was essentially getting to the end of our testing `.md` file 
+My code prior to fixing was essentially getting to the end of a testing `.md` file, however, wasnt able to find a 
+" [ ", " ] ", " ( ", or " ) ". Because it was unable to find anything, our `currentIndex` value could not be incremented to a value larger or equal to our `file (string) size` since there were no other links provided after the empty space in the file our while loop could not terminate, and thus, continously took up heap space. 
 
 --- 
 
@@ -45,15 +46,22 @@ Our code prior to fixing was essentially getting to the end of our testing `.md`
 
 > Third Code Diff:
 
-![Code Change 3]()
+![Code Change 3](cse15l-lab-report-2-ss5.png)
 
 *See why we needed to make this change here:* [Failure Inducing Symptom 3](https://github.com/b-ianphan/markdown-parser/blob/main/breakingTest3.md)
 
 > Output of Sympton:
 
-![Sympton 3 Output]()
+![Sympton 3 Output](cse15l-lab-report-2-ss6.png)
 
 > Explanation:
 
+My code was mistakingly taking an image source and returning it as a "link". Despite the wording inbetween my `()`, actually resembling a link, this is an incorrect output since I gave my `.md` a command to insert an image (`![]()`)
 
+---
 
+```All three files working```
+
+Although this was not asked for in the lab report; I've decided to include an image which illustartes my code running for all three `.md files`.
+
+![Final results](cse15l-lab-report-2-ss7.png)
