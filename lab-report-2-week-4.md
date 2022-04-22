@@ -62,6 +62,6 @@ My code was mistakingly taking an image source and returning it as a "link". Des
 
 ```All three files working```
 
-Although this was not asked for in the lab report; I've decided to include an image which illustartes my code running for all three `.md files`.
+Although this was not asked for in the lab report I've decided to include an image which illustrates my code running for all three `.md files`.
 
 ![Final results](cse15l-lab-report-2-ss7.png)
