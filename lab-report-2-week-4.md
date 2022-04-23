@@ -29,7 +29,7 @@ My code prior to fixing was essentially reading the index of `Closing Parenthesi
 
 ![Code Change 2](cse15l-lab-report-2-ss3.png)
 
-*See why we needed to make this change here:* [Failure Inducing Test 1](https://github.com/b-ianphan/markdown-parser/blob/main/breakingTest2.md)
+*See why we needed to make this change here:* [Failure Inducing Test 2](https://github.com/b-ianphan/markdown-parser/blob/main/breakingTest2.md)
 
 ```Output of Sympton:``` 
 
