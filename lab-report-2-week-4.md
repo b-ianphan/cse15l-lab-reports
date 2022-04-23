@@ -11,7 +11,7 @@ Written and Submitted by: Billy Phan
 ![Code Change 1](cse15l-lab-report-2-ss1.png)
 
 *See why we needed to make this change here:*
-[Failure Inducing Symptom 1](https://github.com/b-ianphan/markdown-parser/blob/main/breakingTest1.md)
+[Failure Inducing Test 1](https://github.com/b-ianphan/markdown-parser/blob/main/breakingTest1.md)
 
 ```Output of Symptom:```
 
@@ -29,7 +29,7 @@ My code prior to fixing was essentially reading the index of `Closing Parenthesi
 
 ![Code Change 2](cse15l-lab-report-2-ss3.png)
 
-*See why we needed to make this change here:* [Failure Inducing Symptom 2](https://github.com/b-ianphan/markdown-parser/blob/main/breakingTest2.md)
+*See why we needed to make this change here:* [Failure Inducing Test 1](https://github.com/b-ianphan/markdown-parser/blob/main/breakingTest2.md)
 
 ```Output of Sympton:``` 
 
@@ -48,7 +48,7 @@ My code prior to fixing was essentially getting to the end of a testing `.md` fi
 
 ![Code Change 3](cse15l-lab-report-2-ss5.png)
 
-*See why we needed to make this change here:* [Failure Inducing Symptom 3](https://github.com/b-ianphan/markdown-parser/blob/main/breakingTest3.md)
+*See why we needed to make this change here:* [Failure Inducing Test 3](https://github.com/b-ianphan/markdown-parser/blob/main/breakingTest3.md)
 
 ```Output of Sympton:```
 
