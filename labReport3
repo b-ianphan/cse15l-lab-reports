@@ -5,6 +5,7 @@ We are trying to add lines with our macbook and commit these changes to github w
 We are trying to add another line to test.
 
 This is a line I added from the remote linux system.
-=======
+This is another line I added to show that we can commit from the linux remote system.
+======
 This is a file that we will send to our ieng6 account.
 >>>>>>> 68d4213a652b2d51378896ca7d1c60b8bd852571
