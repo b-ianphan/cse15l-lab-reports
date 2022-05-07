@@ -2,3 +2,5 @@ This is a file that we scp'd to our ieng6 account. We will now use it to show th
 
 We are trying to add lines with our macbook and commit these changes to github with our terminal. This is our test.
 We are trying to add another line to test.
+
+This is a line I added from the remote linux system.
