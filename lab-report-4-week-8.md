@@ -18,7 +18,8 @@ Written and Submitted By: Billy Phan
 ### Test 3 (failure)
 ![Test3](cse15l-lab-report-4-test3.png)
 
-* According to the file preview, `Test 3` should produce the links "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule".
+* According to the file preview, `Test 3` should produce the link "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule".
+
 ---
 > **Turning Test Files into Tests**
 

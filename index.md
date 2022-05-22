@@ -25,4 +25,4 @@ Link back to original repo: [Here](https://github.com/b-ianphan/cse15l-lab-repor
 
 ---
 
->Lab report 4: [Lab Report 4]()
+>Lab report 4: [Lab Report 4](https://b-ianphan.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
