@@ -5,17 +5,17 @@ Written and Submitted By: Billy Phan
 ---
 > **Prediction Of Test Results**
 
-### Test 1 (failure)
+### Test 1
 ![Test1](cse15l-lab-report-4-test1.png)
 
 * According to the file preview, `Test 1` should produce the links "`google.com", "google.com", and "ucsd.edu".
 
-### Test 2 (failure)
+### Test 2
 ![Test2](cse15l-lab-report-4-test2.png)
 
 * According to the file preview, `Test 2` should produce the links "a.com", "a.com(())", "example.com".
 
-### Test 3 (failure)
+### Test 3
 ![Test3](cse15l-lab-report-4-test3.png)
 
 * According to the file preview, `Test 3` should produce the link "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule".
@@ -23,38 +23,38 @@ Written and Submitted By: Billy Phan
 ---
 > **Turning Test Files into Tests**
 
-### Test 1 (failure)
+### Test 1 
 ![Test1Imp](cse15l-lab-report-4-test1-implemented.png)
 
-### Test 2 (failure)
+### Test 2 
 ![Test2Imp](cse15l-lab-report-4-test2-implemented.png)
 
-### Test 3 (failure)
+### Test 3 
 ![Test3Imp](cse15l-lab-report-4-test3-implemented.png)
 
 ---
 > **My Implementation**
 
-### Test 1
+### Test 1 (failure)
 ![MyMarkdownTest1](cse15l-lab-report-4-ss4.png)
 
-### Test 2
+### Test 2 (failure)
 ![MyMarkdownTest2](cse15l-lab-report-4-ss5.png)
 
-### Test 3
+### Test 3 (failure)
 ![MyMarkdownTest3](cse15l-lab-report-4-ss6.png)
 
 ---
 
 > **Other Implementation**
 
-### Test 1
+### Test 1 (failure)
 ![OtherMarkdownTest1](cse15l-lab-report-4-ss1.png)
 
-### Test 2
+### Test 2 (failure)
 ![OtherMarkdownTest2](cse15l-lab-report-4-ss2.png)
 
-### Test 3
+### Test 3 (failure)
 ![OtherMarkdownTest3](cse15l-lab-report-4-ss3.png)
 
 ---
