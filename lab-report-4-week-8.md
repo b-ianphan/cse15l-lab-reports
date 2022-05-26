@@ -3,6 +3,15 @@
 Written and Submitted By: Billy Phan
 ```
 ---
+> **Links to Repositories**
+
+* My Repository: [My Repo](https://github.com/b-ianphan/markdown-parser.git)
+
+* Repository I Looked at: [Other Repo](https://github.com/ryankosta/good-markdown-parser)
+
+
+
+---
 > **Prediction Of Test Results**
 
 ### Test 1
