@@ -49,6 +49,7 @@ Written and Submitted By: Billy Phan
     * My output is on the left whilst the other is on the right
 
 * The expected output should actually produce a link (what the other repository produces), as shown by the VScode preview.
+    ![RawCode502](cse15l-lab-report-5-ss14.png)
     ![Expected502Output](cse15l-lab-report-5-ss9.png)
 
 * For my implementation, I can deduce that it is simply not able to read non-alphabet letters. And thus, my implementation does not work as expected when they are in the paranthesis of test 502.
@@ -63,6 +64,7 @@ Written and Submitted By: Billy Phan
     * My output is on the left whilst the other is on the right
 
 * The expected output should be nothing because as ashown by the VScode preview, test 519 produces an image, so a link should not be retrieved.
+    ![RawCode519](cse15l-lab-report-5-ss15.png)
     ![Expected519Output](cse15l-lab-report-5-ss10.png)
 
 * For the other implementation, I can deduce that it does not take into consideration whether or not the `md file` contains an image or a link. Thus, when a image does appear, the `MarkdownParse.java` code in the other implementation may take an image instead of a link.
