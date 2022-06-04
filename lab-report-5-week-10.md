@@ -30,9 +30,11 @@ Written and Submitted By: Billy Phan
 * I then went through the output, and looked at highlighted lines until I eventully reached Tests 502 and 519.
 
 ![Test502](cse15l-lab-report-5-ss6.png)
-#### Links to test: [Test 502](https://github.com/b-ianphan/markdown-parser/blob/main/test-files/502.html.test)
-
-#### Links to test: [Test 519](https://github.com/b-ianphan/markdown-parser/blob/main/test-files/519.html.test)
+#### Links to tests: 
+[Test 502](https://github.com/b-ianphan/markdown-parser/blob/main/test-files/502.md)
+[Test 502 Html](https://github.com/b-ianphan/markdown-parser/blob/main/test-files/502.html.test)
+[Test 519] (https://github.com/b-ianphan/markdown-parser/blob/main/test-files/519.md)
+[Test 519 Html](https://github.com/b-ianphan/markdown-parser/blob/main/test-files/519.html.test)
 
 ---
 
