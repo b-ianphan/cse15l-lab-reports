@@ -52,7 +52,7 @@ Written and Submitted By: Billy Phan
 * For my implementation, I can deduce that it is simply not able to read non-alphabet letters. And thus, my implementation does not work as expected when they are in the paranthesis of test 502.
     ![CodeToBeFixedMine](cse15l-lab-report-5-ss11.png)
 
-### Test 530
+### Test 519
 
 * In test 519, both implementations produce an incorrect output.
 
