@@ -13,14 +13,12 @@ Written and Submitted By: Billy Phan
 > **Running Markdown Parse on Command Lines**
 
 ### Running on My Repository
-
-![RunOne](cse15l-lab-report-5-ss1.png)
-![RunOnePart2](cse15l-lab-report-5-ss2.png)
-
-### Running on Other Repository 
-
 ![RunTwo](cse15l-lab-report-5-ss3.png)
 ![RunTwoPart2](cse15l-lab-report-5-ss4.png)
+
+### Running on Other Repository 
+![RunOne](cse15l-lab-report-5-ss1.png)
+![RunOnePart2](cse15l-lab-report-5-ss2.png)
 
 ---
 
