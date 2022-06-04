@@ -58,7 +58,7 @@ Written and Submitted By: Billy Phan
 
 ### Test 519
 
-* In test 519, both implementations produce an incorrect output.
+* In test 519, the other implementation produces an incorrect output.
 
 * Actual Outputs:
     ![519Outputs](cse15l-lab-report-5-ss8.png)
